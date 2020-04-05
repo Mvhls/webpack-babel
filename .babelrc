@@ -1,0 +1,6 @@
+// webpack-babel/.babelrc
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
